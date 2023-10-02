@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval Asian Harbor
+* source:	https://sketchfab.com/3d-models/medieval-asian-harbor-6f8d16435dc14ecab2b235b962c63be2
+* author:	jessica.novita (https://sketchfab.com/jessica.novita)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval Asian Harbor" (https://sketchfab.com/3d-models/medieval-asian-harbor-6f8d16435dc14ecab2b235b962c63be2) by jessica.novita (https://sketchfab.com/jessica.novita) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
